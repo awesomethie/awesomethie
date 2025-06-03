@@ -1,33 +1,37 @@
-<h1 align="center">Hi 👋, I'm Thy Cao</h1>
-<h3 align="center">A master's graduate student from Rotterdam School of Management, Erasmus University Rotterdam</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-- 🔭 I’m currently working on **my master's thesis**
+###
 
-- 🌱 I’m currently learning **Dutch**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/awesomethie/MSc_Business_Information_Management_2325](https://github.com/awesomethie/MSc_Business_Information_Management_2325)
+###
 
-- 📫 How to reach me **v.thy1699@gmail.com**
+<h1 align="center">Hey there 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-<!--
-**awesomethie/awesomethie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">I'm Thy Cao<br><br>- 🔭 I’m pursuing my master's degree in Business Information Management at Rotterdam School of Management, EUR<br>- 📚 I'm currently learning Dutch (A2 to B1)<br>- 👨‍💻 All of my projects during my master's are available at https://github.com/awesomethie/MSc_Business_Information_Management_2325</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
