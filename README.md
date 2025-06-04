@@ -2,9 +2,6 @@
   <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg0dXFtd3llY2tzN2MwbGV6NzFqNzIyNTZhdzUyYTZ0NnVseWNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S857VNxM6HwlZuYXrU/giphy.gif"  />
 </div>
 
-###
-
-<h1 align="center">Hey there 👋</h1>
 
 ###
 
