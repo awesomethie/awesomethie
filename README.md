@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Thy Cao<br><br>- 🔭 I’m working at Cobase as a Bank Implementation Consultant<br>- 📚 I'm currently learning Dutch (B1 to B2/C1)<br>- 👨‍💻 All of my projects during my master's are available at https://github.com/awesomethie/MSc_Business_Information_Management_2325</p>
+<p align="left">I'm Thy Cao<br><br>- 🔭 I’m working as a Bank Implementation Consultant<br>- 📚 I'm currently learning Dutch (B1 to B2/C1)<br>- 👨‍💻 All of my projects during my master's are available at https://github.com/awesomethie/MSc_Business_Information_Management_2325</p>
 
 ###
 
